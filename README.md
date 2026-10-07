@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Dhrupad Kapoor 👋
 
-<!--
-**dhrupadkapoor02/dhrupadkapoor02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack & AI/ML
 
-Here are some ideas to get you started:
+Computer Science Engineering student focused on building real-world
+full-stack applications and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 📦 SupplySync
+B2B wholesale distribution platform with inventory, retailer management,
+order processing, and AI/OCR-powered invoice processing.
+
+**React • Node.js • Express • PostgreSQL • Prisma • Redis • Cloudinary**
+
+### 📊 Inventory Tracker
+Smart inventory and expiry management system with authentication,
+REST APIs, and PostgreSQL.
+
+**React • Node.js • Express • PostgreSQL • Prisma • JWT**
+
+### 🤖 Wholesale Assistant
+AI assistant exploring LLM workflows and agent-based applications.
+
+**Python • LangChain • LangGraph • LLMs**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java • Python • JavaScript • SQL • C++
+
+**Full-Stack:** React • Node.js • Express • PostgreSQL • MongoDB
+
+**AI/ML:** LLMs • LangChain • LangGraph • OCR
+
+**Tools:** Git • GitHub • Docker • Prisma • Cloudinary
+
+---
+
+## 🎯 Currently Focused On
+
+DSA • Java & OOP • DBMS & SQL • Full-Stack Development • AI/ML Engineering
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/dhrupad-kapoor-0b2925291/) •
+[GitHub](https://github.com/dhrupadkapoor02)
